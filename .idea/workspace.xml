@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b416daf6-9b54-4b41-a01b-db8ccdc25760" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZKzVQGgxauaIub4sUWn7T1uWcu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="CalculateDateOfMonth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CalculateDateOfMonth" />
+      <module name="CalculateDateOfMonth" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CalculateDateOfMonth" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b416daf6-9b54-4b41-a01b-db8ccdc25760" name="Default Changelist" comment="" />
+      <created>1584602596483</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584602596483</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="937" height="259" key="GridCell.Tab.0.bottom" timestamp="1584604649381">
+      <screen x="0" y="27" width="1920" height="994" />
+    </state>
+    <state width="937" height="259" key="GridCell.Tab.0.bottom/0.27.1920.994@0.27.1920.994" timestamp="1584604649381" />
+    <state width="937" height="259" key="GridCell.Tab.0.center" timestamp="1584604649380">
+      <screen x="0" y="27" width="1920" height="994" />
+    </state>
+    <state width="937" height="259" key="GridCell.Tab.0.center/0.27.1920.994@0.27.1920.994" timestamp="1584604649380" />
+    <state width="937" height="259" key="GridCell.Tab.0.left" timestamp="1584604649380">
+      <screen x="0" y="27" width="1920" height="994" />
+    </state>
+    <state width="937" height="259" key="GridCell.Tab.0.left/0.27.1920.994@0.27.1920.994" timestamp="1584604649380" />
+    <state width="937" height="259" key="GridCell.Tab.0.right" timestamp="1584604649381">
+      <screen x="0" y="27" width="1920" height="994" />
+    </state>
+    <state width="937" height="259" key="GridCell.Tab.0.right/0.27.1920.994@0.27.1920.994" timestamp="1584604649381" />
+    <state x="493" y="113" width="1372" height="796" key="new project wizard" timestamp="1584604648250">
+      <screen x="0" y="27" width="1920" height="994" />
+    </state>
+    <state x="493" y="113" width="1372" height="796" key="new project wizard/0.27.1920.994@0.27.1920.994" timestamp="1584604648250" />
+  </component>
+</project>
